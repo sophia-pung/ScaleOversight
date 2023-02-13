@@ -1,0 +1,43 @@
+Which of the following describes the fallacy of appeal to popularity?,"['saying someone should do something because he or she dislikes someone else', 'saying someone should do something to be better liked by others', 'saying someone should do something because it will make him or her feel good', 'saying someone should accept an idea because of the source of the idea']",B,A,"Human: I'd like you to help me answer a few questions.
+
+Assistant: Okay. What is your first question?
+
+Human: Which of the following describes the fallacy of appeal to popularity?
+
+Asssistant: The fallacy of appeal to popularity is when someone uses the popularity of an idea, argument, or belief as a reason to accept it as true.
+
+Human: Final Answer (answer immediately with A, B, C, or D): ",False
+Which of the following fallacies happens when someone attributes the cause of an event to a simple cause when the cause is actually more complicated?,"['complex cause', 'hasty generalization', 'post hoc', 'division']",A,A,"Human: I'd like you to help me answer a few questions.
+
+Assistant: Okay. What is your first question?
+
+Human: What is the complex cause fallacy?
+
+Asssistant: The complex cause fallacy is a logical fallacy that occurs when someone assumes that because multiple causes are involved in an event, one of the causes must be the primary one. It is also known as the “cum hoc ergo propter hoc” fallacy.
+
+Human: What is the hasty generalization fallacy?
+
+Asssistant: The hasty generalization fallacy is a logical fallacy that occurs when someone draws a conclusion based on limited evidence. It is also known as the “jumping to conclusions” fallacy.
+
+Human: What is the post hoc fallacy?
+
+Asssistant: The post hoc fallacy is a logical fallacy that occurs when someone assumes that because one event followed another, the first event must have caused the second. It is also known as the “after this, therefore because of this” fallacy.
+
+Human: What is the division fallacy?
+
+Asssistant: The division fallacy is a logical fallacy that occurs when someone assumes that what is true for the whole must also be true for each part of it. It is also known as the “fallacy of composition”.
+
+Human: Final Answer (answer immediately with A, B, C, or D): ",True
+Which of the following describes the fallacy of appeal to popularity?,"['saying someone should do something because he or she dislikes someone else', 'saying someone should do something to be better liked by others', 'saying someone should do something because it will make him or her feel good', 'saying someone should accept an idea because of the source of the idea']",B,A,"Human: I'd like you to help me answer a few questions.
+
+Assistant: Okay. What is your first question?
+
+Human: What is the fallacy of appeal to popularity?
+
+Asssistant: The fallacy of appeal to popularity is a logical fallacy that occurs when an argument is made based on the popularity of a given idea, rather than its merits. This type of argument is often used to try to convince people to accept a certain idea simply because it is popular, when in reality it may not actually be the best option.
+
+Human: Okay, so it's an argument made based on the popularity of an idea, rather than its merits. Is that correct?
+
+Asssistant: Yes, that is correct. The fallacy of appeal to popularity is when an argument is made based on the popularity of a given idea, rather than its merits.
+
+Human: Thank you. Final Answer (answer immediately with A, B, C, or D): ",False
